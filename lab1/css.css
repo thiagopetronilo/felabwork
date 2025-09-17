@@ -1,0 +1,15 @@
+body{
+    font: sans-serif;
+    margin: 1.5em;
+    padding: 1em;
+    font-size: smaller;
+}
+h1{
+    font-style:unset;
+}
+footer{color: blue;
+        column-gap:0cqmin;
+    }
+    li{
+        padding: 5em;
+    }
